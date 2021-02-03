@@ -6,15 +6,16 @@
 
 - [JavaScript MDN Web docs](https://developer.mozilla.org/ko/docs/Web/JavaScript)
 
-## 공부 진행표 (Yutube 강의)
+## 공부 진행표 (Youtube 강의)
 
-| Chapter |   수강일   |
-| :-----: | :--------: |
-|    1    | 2021.02.01 |
-|    2    | 2021.02.02 |
-|    3    | 2021.02.02 |
+| Chapter |                                         강의명                                          | 수강일 |
+| :-----: | :-------------------------------------------------------------------------------------: | :----: |
+|    1    | 자바스크립트의 역사와 현재 그리고 미래 (JavaScript, ECMAScript, JQuery, Babel, Node.js) | 02.01  |
+|    2    |      콘솔에 출력, script async 와 defer의 차이점 및 앞으로 자바스크립트 공부 방향       | 02.02  |
+|    3    |                      데이터타입, data types, let vs var, hoisting                       | 02.02  |
+|    4    |                                 operator, if, for loop                                  | 02.03  |
 
 ## 목표 리스트
 
-- [ ] Youtube 강의 전부 보기
+- [ ] Youtube 강의 완강하기
 - [ ] 간단한 웹 홈페이지 만들기
