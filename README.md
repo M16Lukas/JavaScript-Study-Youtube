@@ -14,6 +14,7 @@
 |    4    |                                 operator, if, for loop                                  | 02.03  |  ch4.js   |
 |    5    |                      Arrow Function은 무엇인가? 함수의 선언과 표현                      | 02.04  |  ch5.js   |
 |    6    |                       클래스와 오브젝트의 차이점(class vs object)                       | 02.05  | class.js  |
+|    7    |                                    오브젝트 넌 뭐니?                                    | 02.08  | object.js |
 
 ## 목표 리스트
 
