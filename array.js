@@ -53,10 +53,10 @@ console.log(fruits);
 
 // splice(start, deleteCount) : remove an item by index position
 fruits.push('Strawberry');
-// fruits.splice(1);   // index 1 부터 모든 Datat 삭제
-fruits.splice(1, 1);   // index 1 삭제
+// fruits.splice(1);                        // index 1 부터 모든 Data 삭제
+fruits.splice(1, 1);                        // index 1 삭제
 console.log(fruits);
-fruits.splice(1,1, 'Apple', 'Watermelon');
+fruits.splice(1,1, 'Apple', 'Watermelon');  // index 1 삭제 후 , 'Apple', 'Watermelon' 추가 
 console.log(fruits);
 
 // concat : combine two arrays
