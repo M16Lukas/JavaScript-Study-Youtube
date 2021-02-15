@@ -49,7 +49,7 @@ class UserStorage {
             } else {
                 onError(new Error('no access'));
             }
-        },1000)
+        },1000);
     }
 }
 
@@ -69,4 +69,4 @@ UserStorage.loginUser(
             error => {});
     },
     error => {console.log(error)}
-    );
+);
