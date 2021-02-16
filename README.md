@@ -1,10 +1,10 @@
 # JavaScript 공부
 
-## Link
+## [ 1 ] 공부 자료
 
-- [드림코딩 by 엘리 : 자바스크립트 기초 강의 (Youtube)](https://www.youtube.com/watch?v=wcsVjmHrUQg&list=PLv2d7VI9OotTVOL4QmPfvJWPJvkmv6h-2&ab_channel=%EB%93%9C%EB%A6%BC%EC%BD%94%EB%94%A9by%EC%97%98%EB%A6%AC)
+Link : [드림코딩 by 엘리 : 자바스크립트 기초 강의 (Youtube)](https://www.youtube.com/watch?v=wcsVjmHrUQg&list=PLv2d7VI9OotTVOL4QmPfvJWPJvkmv6h-2&ab_channel=%EB%93%9C%EB%A6%BC%EC%BD%94%EB%94%A9by%EC%97%98%EB%A6%AC)
 
-## 공부 진행표 (Youtube 강의)
+## [ 2 ] 공부 진행표 (Youtube 강의)
 
 | Chapter |                                         강의명                                          | 수강일 |                File Name                 |
 | :-----: | :-------------------------------------------------------------------------------------: | :----: | :--------------------------------------: |
@@ -17,15 +17,16 @@
 |    7    |                                    오브젝트 넌 뭐니?                                    | 02.08  |                object.js                 |
 |    8    |               배열 제대로 알고 쓰자. 자바스크립트 배열 개념과 APIs 총정리               | 02.09  |                 array.js                 |
 |    9    |                      유용한 10가지 배열 함수들. Array APIs 총정리                       | 02.10  |               array-api.js               |
+|   10    |                    JSON 개념 정리 와 활용방법 및 유용한 사이트 공유                     | 02.16  |                 json.js                  |
 |   11    |                     비동기처리의 시작 콜백 이해하기, 콜백 지옥 체험                     | 02.11  |            async/callback.js             |
 |   12    |                      프로미스 개념부터 활용까지 JavaScript Promise                      | 02.15  | async/promise.js, callback-to-promise.js |
 
-## 목표 리스트
+## [ 3 ] 목표 리스트
 
 - [ ] Youtube 강의 완강하기
 - [ ] 간단한 웹 홈페이지 만들기
 
-## Reference
+## [ 4 ] 유용한 사이트
 
 - [JavaScript MDN Web docs](https://developer.mozilla.org/ko/docs/Web/JavaScript)
 
