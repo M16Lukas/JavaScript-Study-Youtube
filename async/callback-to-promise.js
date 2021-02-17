@@ -1,30 +1,26 @@
 'use strict';
 class UserStorage {
-    loginUser(id, password) {
-        return new Promise((resolve, reject) => {
-            setTimeout(() => {
-                if (
-                    (id === 'ellie' && password === 'dream') ||
-                    (id === 'coder' && password === 'academy')
-                ) {
-                    resolve(id);
-                } else {
-                    reject(new Error('not found'));
-                }
-            }, 2000);
-        });
+    async loginUser(id, password) {
+        setTimeout(() => {
+            if (
+                (id === 'ellie' && password === 'dream') ||
+                (id === 'coder' && password === 'academy')
+            ) {
+                return id;
+            } else {
+                return new Error('not found');
+            }
+        }, 2000);
     }
 
-    getRoles(user) {
-        return new Promise((resolve, reject) => {
-            setTimeout(() => {
-                if (user === 'ellie') {
-                    resolve({name: 'ellie', role: 'admin'});
-                } else {
-                    reject(new Error('no access'));
-                }
-            },1000);
-        });
+    async getRoles(user) {
+        setTimeout(() => {
+            if (user === 'ellie') {
+                return {name: 'ellie', role: 'admin'};
+            } else {
+                return new Error('no access');
+            }
+        },1000);
     }
 }
 
