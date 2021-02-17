@@ -20,6 +20,7 @@ Link : [드림코딩 by 엘리 : 자바스크립트 기초 강의 (Youtube)](htt
 |   10    |                    JSON 개념 정리 와 활용방법 및 유용한 사이트 공유                     | 02.16  |                 json.js                  |
 |   11    |                     비동기처리의 시작 콜백 이해하기, 콜백 지옥 체험                     | 02.11  |            async/callback.js             |
 |   12    |                      프로미스 개념부터 활용까지 JavaScript Promise                      | 02.15  | async/promise.js, callback-to-promise.js |
+|   13    |            비동기의 꽃 JavaScript async 와 await 그리고 유용한 Promise APIs             | 02.17  |              async/async.js              |
 
 ## [ 3 ] 목표 리스트
 
